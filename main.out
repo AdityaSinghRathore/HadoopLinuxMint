@@ -1,0 +1,15 @@
+\BOOKMARK [1][-]{section.1}{Prerequisites}{}% 1
+\BOOKMARK [2][-]{subsection.1.1}{Installing JDK 8}{section.1}% 2
+\BOOKMARK [2][-]{subsection.1.2}{Setting JAVA\137HOME environment Variable and Adding Java to your PATH}{section.1}% 3
+\BOOKMARK [2][-]{subsection.1.3}{Setting up passphraseless SSH}{section.1}% 4
+\BOOKMARK [1][-]{section.2}{Downloading and Installing Hadoop 3.0.3}{}% 5
+\BOOKMARK [2][-]{subsection.2.1}{Downloading Hadoop}{section.2}% 6
+\BOOKMARK [2][-]{subsection.2.2}{Installing Hadoop}{section.2}% 7
+\BOOKMARK [1][-]{section.3}{HDFS and Yarn Configuration}{}% 8
+\BOOKMARK [2][-]{subsection.3.1}{Edit hadoop-env.sh}{section.3}% 9
+\BOOKMARK [2][-]{subsection.3.2}{Edit core-site.xml}{section.3}% 10
+\BOOKMARK [2][-]{subsection.3.3}{Edit hdfs-site.xml}{section.3}% 11
+\BOOKMARK [2][-]{subsection.3.4}{Edit mapred-site.xml}{section.3}% 12
+\BOOKMARK [2][-]{subsection.3.5}{Edit yarn-site.xml}{section.3}% 13
+\BOOKMARK [1][-]{section.4}{Running Hadoop Services}{}% 14
+\BOOKMARK [1][-]{section.5}{Conclusion and Stopping}{}% 15
