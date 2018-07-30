@@ -3,5 +3,5 @@
 1. The installation instructions can be found here.
 <https://github.com/AdityaSinghRathore/HadoopLinuxMint/blob/master/main.pdf>
 2. Don't forget to Start this repo to spread the word for fellow Linux  users.
-
+3. The promised wordcount example is here <https://github.com/AdityaSinghRathore/WordCountHadoop>
 Thanks, :D
